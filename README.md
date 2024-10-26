@@ -16,7 +16,12 @@ Ce projet implémente un outil de compression et de décompression de fichiers a
   - pywavelets
   - scipy
   - matplotlib
+  - bitarray
+  - pydub
+  - struct
+  - pickle
 
 Vous pouvez installer les dépendances en utilisant la commande suivante :
 ```bash
-pip install numpy pywavelets scipy matplotlib
+pip install numpy pywavelets scipy matplotlib bitarray pydub
+
